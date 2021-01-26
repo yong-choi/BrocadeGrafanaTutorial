@@ -42,11 +42,13 @@ services:
       - grafana
 
   app:
-    build: ./app
+    image: prom/pushgateway
     ports:
-      - 8081:80
-    volumes:
-      - app_data:/var/log
+      - 9091:9091
+        #    volumes:
+        # - app_data:/bin/pushgateway
+        # had ports set to 9091:9091 before
+        # tried 8081:80 - previous app was set to 8081:80. Didn't work 
     networks:
       - grafana
 

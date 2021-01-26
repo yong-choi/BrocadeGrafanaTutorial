@@ -1,0 +1,722 @@
+{
+ "Response": {
+  "media-rdp": [
+   {
+    "name": "fc/0/0",
+    "identifier": "SFP",
+    "connector": "LC",
+    "encoding": "64B66B",
+    "vendor-name": "BROCADE",
+    "vendor-oui": "00:05:1e",
+    "part-number": "57-1000333-01",
+    "vendor-revision": "A",
+    "serial-number": "JAF417100000GC7",
+    "date-code": "170308",
+    "temperature": 50,
+    "rx-power": 576.10,
+    "tx-power": 690.80,
+    "current": 7.75,
+    "voltage": 3365.50,
+    "wavelength": 850,
+    "power-on-time": 15921,
+    "media-distance": {
+     "distance": [
+      "short"
+     ]
+    },
+    "media-speed-capability": {
+     "speed": [
+      8,
+      16,
+      32
+     ]
+    },
+    "peer-data-available": true,
+    "remote-identifier": "SFP+",
+    "remote-laser-type": "short wave laser",
+    "remote-media-speed-capability": {
+     "speed": [
+      8,
+      16,
+      32
+     ]
+    },
+    "remote-media-temperature": 41,
+    "remote-media-rx-power": 693.80,
+    "remote-media-tx-power": 699.90,
+    "remote-media-current": 7.80,
+    "remote-media-voltage": 3407.60,
+    "remote-media-voltage-alert": {
+     "high-alarm": 0,
+     "low-alarm": 0,
+     "high-warning": 0,
+     "low-warning": 0
+    },
+    "remote-media-temperature-alert": {
+     "high-alarm": 0,
+     "low-alarm": 0,
+     "high-warning": 0,
+     "low-warning": 0
+    },
+    "remote-media-tx-bias-alert": {
+     "high-alarm": 0,
+     "low-alarm": 0,
+     "high-warning": 0,
+     "low-warning": 0
+    },
+    "remote-media-tx-power-alert": {
+     "high-alarm": 0,
+     "low-alarm": 0,
+     "high-warning": 0,
+     "low-warning": 0
+    },
+    "remote-media-rx-power-alert": {
+     "high-alarm": 0,
+     "low-alarm": 0,
+     "high-warning": 0,
+     "low-warning": 0
+    }
+   },
+   {
+    "name": "fc/0/1",
+    "identifier": "SFP",
+    "connector": "LC",
+    "encoding": "64B66B",
+    "vendor-name": "BROCADE",
+    "vendor-oui": "00:05:1e",
+    "part-number": "57-1000333-01",
+    "vendor-revision": "A",
+    "serial-number": "JAF3154900009W5",
+    "date-code": "151202",
+    "temperature": 53,
+    "rx-power": 6.00,
+    "tx-power": 667.30,
+    "current": 7.72,
+    "voltage": 3266.90,
+    "wavelength": 850,
+    "power-on-time": 21384,
+    "media-distance": {
+     "distance": [
+      "short"
+     ]
+    },
+    "media-speed-capability": {
+     "speed": [
+      8,
+      16,
+      32
+     ]
+    },
+    "peer-data-available": false
+   },
+   {
+    "name": "fc/0/2",
+    "identifier": "SFP",
+    "connector": "LC",
+    "encoding": "64B66B",
+    "vendor-name": "BROCADE",
+    "vendor-oui": "00:05:1e",
+    "part-number": "57-1000333-01",
+    "vendor-revision": "A",
+    "serial-number": "JAF3154900006SK",
+    "date-code": "151130",
+    "temperature": 54,
+    "rx-power": 0.90,
+    "tx-power": 669.10,
+    "current": 7.70,
+    "voltage": 3305.90,
+    "wavelength": 850,
+    "power-on-time": 19121,
+    "media-distance": {
+     "distance": [
+      "short"
+     ]
+    },
+    "media-speed-capability": {
+     "speed": [
+      8,
+      16,
+      32
+     ]
+    },
+    "peer-data-available": false
+   },
+   {
+    "name": "fc/0/3",
+    "identifier": "SFP",
+    "connector": "LC",
+    "encoding": "64B66B",
+    "vendor-name": "BROCADE",
+    "vendor-oui": "00:05:1e",
+    "part-number": "57-1000333-01",
+    "vendor-revision": "A",
+    "serial-number": "JAF418020001NM5",
+    "date-code": "180113",
+    "temperature": 51,
+    "rx-power": 0.10,
+    "tx-power": 725.40,
+    "current": 7.75,
+    "voltage": 3331.80,
+    "wavelength": 850,
+    "power-on-time": 10407,
+    "media-distance": {
+     "distance": [
+      "short"
+     ]
+    },
+    "media-speed-capability": {
+     "speed": [
+      8,
+      16,
+      32
+     ]
+    },
+    "peer-data-available": false
+   },
+   {
+    "name": "fc/0/4",
+    "identifier": "SFP",
+    "connector": "LC",
+    "encoding": "64B66B",
+    "vendor-name": "BROCADE",
+    "vendor-oui": "00:05:1e",
+    "part-number": "57-1000333-01",
+    "vendor-revision": "A",
+    "serial-number": "JAF315510000EYS",
+    "date-code": "151217",
+    "temperature": 49,
+    "rx-power": 2.90,
+    "tx-power": 702.00,
+    "current": 7.76,
+    "voltage": 3267.60,
+    "wavelength": 850,
+    "power-on-time": 19639,
+    "media-distance": {
+     "distance": [
+      "short"
+     ]
+    },
+    "media-speed-capability": {
+     "speed": [
+      8,
+      16,
+      32
+     ]
+    },
+    "peer-data-available": false
+   },
+   {
+    "name": "fc/0/5",
+    "identifier": "SFP",
+    "connector": "LC",
+    "encoding": "64B66B",
+    "vendor-name": "BROCADE",
+    "vendor-oui": "00:05:1e",
+    "part-number": "57-1000333-01",
+    "vendor-revision": "A",
+    "serial-number": "JAF3154900006SJ",
+    "date-code": "151130",
+    "temperature": 53,
+    "rx-power": 3.40,
+    "tx-power": 685.10,
+    "current": 7.73,
+    "voltage": 3312.80,
+    "wavelength": 850,
+    "power-on-time": 17861,
+    "media-distance": {
+     "distance": [
+      "short"
+     ]
+    },
+    "media-speed-capability": {
+     "speed": [
+      8,
+      16,
+      32
+     ]
+    },
+    "peer-data-available": false
+   },
+   {
+    "name": "fc/0/6",
+    "identifier": "SFP",
+    "connector": "LC",
+    "encoding": "64B66B",
+    "vendor-name": "BROCADE",
+    "vendor-oui": "00:05:1e",
+    "part-number": "57-1000333-01",
+    "vendor-revision": "A",
+    "serial-number": "JAF315510000BDP",
+    "date-code": "151216",
+    "temperature": 57,
+    "rx-power": 2.20,
+    "tx-power": 619.70,
+    "current": 7.74,
+    "voltage": 3306.30,
+    "wavelength": 850,
+    "power-on-time": 35428,
+    "media-distance": {
+     "distance": [
+      "short"
+     ]
+    },
+    "media-speed-capability": {
+     "speed": [
+      8,
+      16,
+      32
+     ]
+    },
+    "peer-data-available": false
+   },
+   {
+    "name": "fc/0/7",
+    "identifier": "SFP",
+    "connector": "LC",
+    "encoding": "64B66B",
+    "vendor-name": "BROCADE",
+    "vendor-oui": "00:05:1e",
+    "part-number": "57-1000333-01",
+    "vendor-revision": "A",
+    "serial-number": "JAF3170500004BM",
+    "date-code": "170129",
+    "temperature": 57,
+    "rx-power": 2.80,
+    "tx-power": 707.80,
+    "current": 7.68,
+    "voltage": 3309.00,
+    "wavelength": 850,
+    "power-on-time": 20433,
+    "media-distance": {
+     "distance": [
+      "short"
+     ]
+    },
+    "media-speed-capability": {
+     "speed": [
+      8,
+      16,
+      32
+     ]
+    },
+    "peer-data-available": false
+   },
+   {
+    "name": "fc/0/12",
+    "identifier": "SFP",
+    "connector": "LC",
+    "encoding": "64B66B",
+    "vendor-name": "BROCADE",
+    "vendor-oui": "00:05:1e",
+    "part-number": "57-1000333-01",
+    "vendor-revision": "A",
+    "serial-number": "JAF3153400000VG",
+    "date-code": "150818",
+    "temperature": 59,
+    "rx-power": 0.00,
+    "tx-power": 664.80,
+    "current": 7.68,
+    "voltage": 3309.30,
+    "wavelength": 850,
+    "power-on-time": 33887,
+    "media-distance": {
+     "distance": [
+      "short"
+     ]
+    },
+    "media-speed-capability": {
+     "speed": [
+      8,
+      16,
+      32
+     ]
+    },
+    "peer-data-available": false
+   },
+   {
+    "name": "fc/0/16",
+    "identifier": "SFP",
+    "connector": "LC",
+    "encoding": "64B66B",
+    "vendor-name": "BROCADE",
+    "vendor-oui": "00:05:1e",
+    "part-number": "57-1000333-01",
+    "vendor-revision": "A",
+    "serial-number": "JAF315490000U1D",
+    "date-code": "151205",
+    "temperature": 57,
+    "rx-power": 3.00,
+    "tx-power": 649.50,
+    "current": 7.72,
+    "voltage": 3293.90,
+    "wavelength": 850,
+    "power-on-time": 20531,
+    "media-distance": {
+     "distance": [
+      "short"
+     ]
+    },
+    "media-speed-capability": {
+     "speed": [
+      8,
+      16,
+      32
+     ]
+    },
+    "peer-data-available": false
+   },
+   {
+    "name": "fc/0/17",
+    "identifier": "SFP",
+    "connector": "LC",
+    "encoding": "64B66B",
+    "vendor-name": "BROCADE",
+    "vendor-oui": "00:05:1e",
+    "part-number": "57-1000333-01",
+    "vendor-revision": "A",
+    "serial-number": "JAF316310000RWN",
+    "date-code": "160727",
+    "temperature": 63,
+    "rx-power": 2.90,
+    "tx-power": 640.80,
+    "current": 7.63,
+    "voltage": 3287.60,
+    "wavelength": 850,
+    "power-on-time": 17015,
+    "media-distance": {
+     "distance": [
+      "short"
+     ]
+    },
+    "media-speed-capability": {
+     "speed": [
+      8,
+      16,
+      32
+     ]
+    },
+    "peer-data-available": false
+   },
+   {
+    "name": "fc/0/18",
+    "identifier": "SFP",
+    "connector": "LC",
+    "encoding": "64B66B",
+    "vendor-name": "BROCADE",
+    "vendor-oui": "00:05:1e",
+    "part-number": "57-1000333-01",
+    "vendor-revision": "A",
+    "serial-number": "JAF316260000M0U",
+    "date-code": "160624",
+    "temperature": 62,
+    "rx-power": 2.80,
+    "tx-power": 678.30,
+    "current": 7.66,
+    "voltage": 3316.70,
+    "wavelength": 850,
+    "power-on-time": 25367,
+    "media-distance": {
+     "distance": [
+      "short"
+     ]
+    },
+    "media-speed-capability": {
+     "speed": [
+      8,
+      16,
+      32
+     ]
+    },
+    "peer-data-available": false
+   },
+   {
+    "name": "fc/0/19",
+    "identifier": "SFP",
+    "connector": "LC",
+    "encoding": "64B66B",
+    "vendor-name": "BROCADE",
+    "vendor-oui": "00:05:1e",
+    "part-number": "57-1000333-01",
+    "vendor-revision": "A",
+    "serial-number": "JAF315490000FT4",
+    "date-code": "151203",
+    "temperature": 56,
+    "rx-power": 0.00,
+    "tx-power": 678.80,
+    "current": 7.71,
+    "voltage": 3286.30,
+    "wavelength": 850,
+    "power-on-time": 17658,
+    "media-distance": {
+     "distance": [
+      "short"
+     ]
+    },
+    "media-speed-capability": {
+     "speed": [
+      8,
+      16,
+      32
+     ]
+    },
+    "peer-data-available": false
+   },
+   {
+    "name": "fc/0/20",
+    "identifier": "SFP",
+    "connector": "LC",
+    "encoding": "64B66B",
+    "vendor-name": "BROCADE",
+    "vendor-oui": "00:05:1e",
+    "part-number": "57-1000333-01",
+    "vendor-revision": "A",
+    "serial-number": "JAF417100000ARN",
+    "date-code": "170307",
+    "temperature": 57,
+    "rx-power": 3.10,
+    "tx-power": 692.20,
+    "current": 7.72,
+    "voltage": 3371.80,
+    "wavelength": 850,
+    "power-on-time": 15355,
+    "media-distance": {
+     "distance": [
+      "short"
+     ]
+    },
+    "media-speed-capability": {
+     "speed": [
+      8,
+      16,
+      32
+     ]
+    },
+    "peer-data-available": false
+   },
+   {
+    "name": "fc/0/21",
+    "identifier": "SFP",
+    "connector": "LC",
+    "encoding": "64B66B",
+    "vendor-name": "BROCADE",
+    "vendor-oui": "00:05:1e",
+    "part-number": "57-1000333-01",
+    "vendor-revision": "A",
+    "serial-number": "JAF417100000GG4",
+    "date-code": "170308",
+    "temperature": 61,
+    "rx-power": 2.10,
+    "tx-power": 598.70,
+    "current": 7.63,
+    "voltage": 3388.70,
+    "wavelength": 850,
+    "power-on-time": 15548,
+    "media-distance": {
+     "distance": [
+      "short"
+     ]
+    },
+    "media-speed-capability": {
+     "speed": [
+      8,
+      16,
+      32
+     ]
+    },
+    "peer-data-available": false
+   },
+   {
+    "name": "fc/0/22",
+    "identifier": "SFP",
+    "connector": "LC",
+    "encoding": "64B66B",
+    "vendor-name": "BROCADE",
+    "vendor-oui": "00:05:1e",
+    "part-number": "57-1000333-01",
+    "vendor-revision": "A",
+    "serial-number": "JAF3162700000V8",
+    "date-code": "160626",
+    "temperature": 59,
+    "rx-power": 2.60,
+    "tx-power": 770.50,
+    "current": 7.65,
+    "voltage": 3300.80,
+    "wavelength": 850,
+    "power-on-time": 23757,
+    "media-distance": {
+     "distance": [
+      "short"
+     ]
+    },
+    "media-speed-capability": {
+     "speed": [
+      8,
+      16,
+      32
+     ]
+    },
+    "peer-data-available": false
+   },
+   {
+    "name": "fc/0/23",
+    "identifier": "SFP",
+    "connector": "LC",
+    "encoding": "64B66B",
+    "vendor-name": "BROCADE",
+    "vendor-oui": "00:05:1e",
+    "part-number": "57-1000333-01",
+    "vendor-revision": "A",
+    "serial-number": "JAF3155300011HW",
+    "date-code": "151230",
+    "temperature": 59,
+    "rx-power": 3.00,
+    "tx-power": 640.10,
+    "current": 7.66,
+    "voltage": 3313.90,
+    "wavelength": 850,
+    "power-on-time": 21256,
+    "media-distance": {
+     "distance": [
+      "short"
+     ]
+    },
+    "media-speed-capability": {
+     "speed": [
+      8,
+      16,
+      32
+     ]
+    },
+    "peer-data-available": false
+   },
+   {
+    "name": "fc/0/24",
+    "identifier": "SFP",
+    "connector": "LC",
+    "encoding": "64B66B",
+    "vendor-name": "BROCADE",
+    "vendor-oui": "00:05:1e",
+    "part-number": "57-1000333-01",
+    "vendor-revision": "A",
+    "serial-number": "JAF41802000100A",
+    "date-code": "180111",
+    "temperature": 51,
+    "rx-power": 2.40,
+    "tx-power": 763.90,
+    "current": 7.74,
+    "voltage": 3328.80,
+    "wavelength": 850,
+    "power-on-time": 10149,
+    "media-distance": {
+     "distance": [
+      "short"
+     ]
+    },
+    "media-speed-capability": {
+     "speed": [
+      8,
+      16,
+      32
+     ]
+    },
+    "peer-data-available": false
+   },
+   {
+    "name": "fc/0/25",
+    "identifier": "SFP",
+    "connector": "LC",
+    "encoding": "64B66B",
+    "vendor-name": "BROCADE",
+    "vendor-oui": "00:05:1e",
+    "part-number": "57-1000333-01",
+    "vendor-revision": "A",
+    "serial-number": "JAF4180300001HJ",
+    "date-code": "180114",
+    "temperature": 51,
+    "rx-power": 0.10,
+    "tx-power": 745.10,
+    "current": 7.77,
+    "voltage": 3326.50,
+    "wavelength": 850,
+    "power-on-time": 10104,
+    "media-distance": {
+     "distance": [
+      "short"
+     ]
+    },
+    "media-speed-capability": {
+     "speed": [
+      8,
+      16,
+      32
+     ]
+    },
+    "peer-data-available": false
+   },
+   {
+    "name": "fc/0/28",
+    "identifier": "SFP",
+    "connector": "LC",
+    "encoding": "64B66B",
+    "vendor-name": "BROCADE",
+    "vendor-oui": "00:05:1e",
+    "part-number": "57-1000333-01",
+    "vendor-revision": "A",
+    "serial-number": "JAF418020000PE1",
+    "date-code": "180109",
+    "temperature": 56,
+    "rx-power": 2.50,
+    "tx-power": 727.30,
+    "current": 7.66,
+    "voltage": 3339.00,
+    "wavelength": 850,
+    "power-on-time": 10224,
+    "media-distance": {
+     "distance": [
+      "short"
+     ]
+    },
+    "media-speed-capability": {
+     "speed": [
+      8,
+      16,
+      32
+     ]
+    },
+    "peer-data-available": false
+   },
+   {
+    "name": "fc/0/29",
+    "identifier": "SFP",
+    "connector": "LC",
+    "encoding": "64B66B",
+    "vendor-name": "BROCADE",
+    "vendor-oui": "00:05:1e",
+    "part-number": "57-1000333-01",
+    "vendor-revision": "A",
+    "serial-number": "JAF418020001NTG",
+    "date-code": "180113",
+    "temperature": 55,
+    "rx-power": 4.30,
+    "tx-power": 717.80,
+    "current": 7.72,
+    "voltage": 3321.20,
+    "wavelength": 850,
+    "power-on-time": 10197,
+    "media-distance": {
+     "distance": [
+      "short"
+     ]
+    },
+    "media-speed-capability": {
+     "speed": [
+      8,
+      16,
+      32
+     ]
+    },
+    "peer-data-available": false
+   }
+  ]
+ }
+}

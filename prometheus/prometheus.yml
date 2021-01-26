@@ -7,10 +7,10 @@ scrape_configs:
     static_configs:
       - targets: ["localhost:9090"]
 
-  - job_name: "tns_app"
+  - job_name: "prompushgateway"
 
     # Override global settings
     scrape_interval: 5s
-
+    #metrics_path: /#
     static_configs:
-      - targets: ["app:80"]
+      - targets: ["host.docker.internal:9091"]
